@@ -1,0 +1,514 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 3077px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_14 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 249px;
+	left: 0px;
+	top: 2828px;
+}
+#DM_____Shahriyer______________ {
+	left: 167px;
+	top: 187px;
+	position: absolute;
+	overflow: visible;
+	width: 800px;
+	height: 600px;
+	text-align: left;
+	font-family: Agency FB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(0,0,0,0.62);
+}
+#rangamati {
+	position: absolute;
+	width: 1924.001px;
+	height: 1389.673px;
+	left: -4.001px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_13 {
+	fill: rgba(96,96,96,0.259);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 1924px;
+	height: 1243px;
+	left: -4px;
+	top: 48px;
+}
+#DM_Shahriyer_Bashar {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.82));
+	left: 429px;
+	top: 589px;
+	position: absolute;
+	overflow: visible;
+	width: 1205px;
+	height: 255px;
+	text-align: left;
+	font-family: Agency FB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,255,255,1);
+	text-decoration: underline;
+}
+#Rectangle_3 {
+	opacity: 0.9;
+	fill: rgba(28,28,28,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1924px;
+	height: 63px;
+	left: 0px;
+	top: 0px;
+}
+#Personal__Website_of_DM {
+	left: 96px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 122px;
+	height: 37px;
+	line-height: 17px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#About {
+	left: 1137px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	line-height: 17px;
+	margin-top: -1.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Component_1__1 {
+	position: absolute;
+	width: 48px;
+	height: 20px;
+	left: 1231px;
+	top: 22px;
+	overflow: visible;
+}
+#Galary {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	line-height: 17px;
+	margin-top: -1.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Component_2__1 {
+	position: absolute;
+	width: 82px;
+	height: 20px;
+	left: 1330px;
+	top: 22px;
+	overflow: visible;
+}
+#Notification {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	line-height: 17px;
+	margin-top: -1.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Component_3__1 {
+	position: absolute;
+	width: 64px;
+	height: 20px;
+	left: 1463px;
+	top: 22px;
+	overflow: visible;
+}
+#Contract {
+	left: 1px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	line-height: 17px;
+	margin-top: -1.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Search {
+	left: 1661px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	line-height: 17px;
+	margin-top: -1.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Icon_feather-search {
+	position: absolute;
+	width: 14.36px;
+	height: 14px;
+	left: 1852.34px;
+	top: 25px;
+	overflow: visible;
+}
+#Path_55 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_55 {
+	overflow: visible;
+	position: absolute;
+	width: 14.654px;
+	height: 14.444px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_56 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_56 {
+	overflow: visible;
+	position: absolute;
+	width: 6.535px;
+	height: 6.209px;
+	left: 10.65px;
+	top: 10.617px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_9 {
+	opacity: 0.11;
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 285px;
+	height: 41px;
+	left: 1610px;
+	top: 12px;
+}
+#Rectangle_10 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	width: 27px;
+	height: 27px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,53.9986,20) rotate(-45deg);
+	transform-origin: center;
+}
+#Rectangle_11 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_11 {
+	width: 19px;
+	height: 19px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,57.9987,24) rotate(-45deg);
+	transform-origin: center;
+}
+#Rectangle_12 {
+	fill: rgba(38,43,47,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 1924px;
+	height: 1750px;
+	left: -4px;
+	top: 1204px;
+}
+#Path_67 {
+	fill: rgba(255,255,255,0.231);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_67 {
+	overflow: visible;
+	position: absolute;
+	width: 659px;
+	height: 673.865px;
+	left: 237.226px;
+	top: 1346px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#IMG-20191107-WA0003 {
+	position: absolute;
+	width: 640px;
+	height: 359.5px;
+	left: 247.226px;
+	top: 1356px;
+	overflow: visible;
+}
+#About_me {
+	left: 293px;
+	top: 1741px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Agency FB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+	text-decoration: underline;
+}
+#I_am_DM_Shahriyer_Bashar_Now_i {
+	left: 280px;
+	top: 1814px;
+	position: absolute;
+	overflow: visible;
+	width: 576px;
+	height: 284px;
+	text-align: left;
+	font-family: Agency FB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Path_67_ {
+	fill: rgba(255,255,255,0.231);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_67_ {
+	overflow: visible;
+	position: absolute;
+	width: 659px;
+	height: 829px;
+	left: 1031px;
+	top: 1722px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#IMG-20191107-WA0003_ {
+	position: absolute;
+	width: 640px;
+	height: 359.5px;
+	left: 1041px;
+	top: 1732px;
+	overflow: visible;
+}
+#Quotes {
+	left: 1087px;
+	top: 2117px;
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Agency FB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+	text-decoration: underline;
+}
+#The_Way_Get_Started_Is_To_Quit {
+	left: 1074px;
+	top: 2190px;
+	position: absolute;
+	overflow: visible;
+	width: 576px;
+	height: 361px;
+	text-align: left;
+	font-family: Agency FB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Its_Not_Whether_You_Get_Knocke {
+	left: 1062px;
+	top: 1451px;
+	position: absolute;
+	overflow: visible;
+	width: 660px;
+	height: 175px;
+	text-align: left;
+	font-family: Agency FB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#If_You_Are_Working_On_Somethin {
+	left: 262px;
+	top: 2220px;
+	position: absolute;
+	overflow: visible;
+	width: 604px;
+	height: 203px;
+	text-align: left;
+	font-family: Agency FB;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#kisspng-github-inc-continuous- {
+	position: absolute;
+	width: 124px;
+	height: 72px;
+	left: 95px;
+	top: 2983px;
+	overflow: visible;
+}
+#facebook-icon-png-black {
+	position: absolute;
+	width: 63px;
+	height: 62px;
+	left: 44px;
+	top: 2988px;
+	overflow: visible;
+}
+#ID43-twitter-512 {
+	position: absolute;
+	width: 76px;
+	height: 76px;
+	left: 209px;
+	top: 2979px;
+	overflow: visible;
+}
+#google-512 {
+	position: absolute;
+	width: 72px;
+	height: 72px;
+	left: 298px;
+	top: 2983px;
+	overflow: visible;
+}
